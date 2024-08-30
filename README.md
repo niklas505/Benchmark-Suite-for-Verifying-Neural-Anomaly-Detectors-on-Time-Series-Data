@@ -5,5 +5,6 @@ Abbreviations:
 
 onlyPressure: Networks trained only on the absolute pressure variable
 4meas: Networks trained on the first four variables of the table below
-ALLmeas: Networks trained on all variables of the table below
+ALLmeas: Networks trained on all variables of the table below 
+
 ![plot](./images/Variables.png)
